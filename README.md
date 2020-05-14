@@ -19,4 +19,3 @@ Use Plotly.js to build interactive charts for your dashboard.
 ![Screenshot 1](/images/screenshot_1.png)
 
 ![Screenshot 2](/images/screenshot_2.png)
-.
